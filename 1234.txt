@@ -1,0 +1,26 @@
+오후 4:02 2023-09-24
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+     h1{
+        color : brown ;
+       }
+</style>
+</head>
+<body>
+<h1>My Web Page</h1>
+<button style="font-size : 40px;" value="button" onclick="window.location.href='https://github.com/myhobby1?tab=repositories';">myhobby
+</button>
+<button style="font-size : 30px;" value="button" onclick="window.location.href='https://github.com/eduau1';">eduau
+</button>
+<button style="font-size : 30px ;" value="button" onclick="window.location.href='https://opentutorials.org/course/1375/6639';">javascript
+</button>
+<button style="font-size : 30px ;" value="button" onclick="window.location. href='https://mail.daum.net/top/INBOX';">daum메일
+</button>
+<button style="font-size :30px ;" value="button" onclick="window.location. href='file:///C:/Users/j1603/Downloads/1234.html';">1234
+</button>
+
+</body>
+</html>
